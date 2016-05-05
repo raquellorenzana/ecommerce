@@ -1,0 +1,76 @@
+
+
+.fancy-header {
+	height: 150px;
+	width: 100%;
+	font-size: 1.5em;
+	text-align: center;
+	font-family: 'Bitter';
+	font-weight: bolder;
+	line-height: 1.5;
+	padding-top: 10px;
+	background-image: url(../img/floralbackdrop.png);
+	margin-bottom: 20px;
+}
+
+.fancy-header h1 {
+	color: #330014;
+	font-size: 2em;
+	padding-left: 30px;
+	font-weight: bolder;
+	background-color: #fff;
+	width: 400px
+}
+
+.fancy-header h2 {
+	width: 400px;
+	margin-left: 220px;
+	color: #000;
+	font-weight: bolder;
+}
+
+
+body {
+	text-align:center;
+}
+
+
+.dress {
+	margin:20px 0;
+}
+
+.img-responsive {
+
+	height: 275px; 
+	width: 183px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
